@@ -25,7 +25,8 @@ detailed analysis.
 integrity, and develop an ER diagram (Entity relationship diagram).
 
 
-• Tools Used:
+• `Tools Used`:
+
 o Microsoft SQL Server
 
 o Lucidchart for ER diagram creation
@@ -56,12 +57,15 @@ This session of this project (part B) focuses on the findings from the data anal
 
 
 `METHODOLOGY`
+
 `TOOL USED`: MICROSOFT SQL SERVER
+
 • Data Ingestion:
+
 - Created a new database called Car_Repair_Shop_Jaytee using the CREATE DATABASE syntax.
-- Used the CREATE TABLE syntax, five tables were created for each of the data containing in each CSV file which includes the Customer table, Invoice table, Job table, Parts table, and 
+- Used the CREATE TABLE syntax, five tables were created for each of the data contained in each CSV file which includes the Customer table, Invoice table, Job table, Parts table, and 
 the Vehicle table.
-o Imported CSV files into a relational database.
-• Data Cleaning: Ensured data was clean, properly formatted (to the same data time for consistency), and indexed.
-• Data Analysis: Conducted analysis using SQL queries to extract relevant insights.
-• Data Visualization: Created visualizations in Excel to illustrate key findings.
+- Imported CSV files into a relational database.
+- Data Cleaning: Ensured data was clean, properly formatted (to the same data time for consistency), and indexed.
+- Data Analysis: Conducted analysis using SQL queries to extract relevant insights.
+- Data Visualization: Created visualizations in Excel to illustrate key findings.
