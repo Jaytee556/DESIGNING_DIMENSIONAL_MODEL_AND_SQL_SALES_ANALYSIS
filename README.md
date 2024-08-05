@@ -6,9 +6,13 @@ This repository entails designing a dimensional model that gives a logical busin
   This project session focuses on creating/designing a dimensional data model for analyzing the sales performance of car repair centers across western Canada using information from a sample invoice. The goal is to create a database schema that allows for efficient querying and reporting on various aspects of sales, including customer behavior, vehicle types, job performance, parts sales, and location effectiveness. The model should enable a flexible analysis of services and parts sales by customer, vehicle brand/model/year, and shop location.
 
 `OBJECTIVES`
+
 • Review the sample invoice: Identify key pieces of information relevant to sales analysis. 
+
 • Types of analysis: Determine the type of analysis needed by the business such as sales by customer, vehicle brand/model/year, services, parts, and shop locations.
+
 • Identify key metrics (facts): Identify the facts to analyze, including service charges, parts charges, total sales, and sales tax.
+
 • Identify attributes (dimensions): Identify the dimensions to slice and dice metrics, including customer information, vehicle details, service types, part details, location information, and 
 date/time of the transaction.
 • Create a fact table: Create a fact table to store quantitative data related to sales and include foreign keys to link to the dimension tables.
