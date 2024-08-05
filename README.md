@@ -69,3 +69,15 @@ the Vehicle table.
 - Data Cleaning: Ensured data was clean, properly formatted (to the same data time for consistency), and indexed.
 - Data Analysis: Conducted analysis using SQL queries to extract relevant insights.
 
+
+#### DATASET OVERVIEW
+The data for this analysis was sourced from the following CSV files:
+
+- Customer.csv: Contains customer information.
+- Invoice.csv: Contains invoice details.
+- Job.csv: Contains job details performed on vehicles.
+- Parts.csv: Contains details of parts used in jobs.
+- Vehicle.csv: Contains vehicle details
+
+
+
