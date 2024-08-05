@@ -68,4 +68,4 @@ the Vehicle table.
 - Imported CSV files into a relational database.
 - Data Cleaning: Ensured data was clean, properly formatted (to the same data time for consistency), and indexed.
 - Data Analysis: Conducted analysis using SQL queries to extract relevant insights.
-- Data Visualization: Created visualizations in Excel to illustrate key findings.
+
